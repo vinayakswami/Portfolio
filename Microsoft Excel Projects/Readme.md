@@ -18,4 +18,14 @@ No of Monthly sales & their Targets contain in monthly sales table & Targets Tab
 
 
 - Gross Margin % year wise & zone wise.
+  
   ![GM](https://github.com/vinayakswami/Portfolio/assets/64587304/2338625e-51be-40d4-ab33-bf88c3e342e6)
+
+- Different markets i.e. country wise sales & Gross Margin %
+
+  ![Market](https://github.com/vinayakswami/Portfolio/assets/64587304/3d6f9cb1-6e2a-477c-8149-221cdb758239)
+
+- Monthly Profit & Loss sales
+
+  ![P L](https://github.com/vinayakswami/Portfolio/assets/64587304/40d1e189-f3ab-48a5-9fb7-217b63255969)
+
