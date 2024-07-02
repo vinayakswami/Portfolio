@@ -1,3 +1,4 @@
+
 # Project Title: P&L Of Sales 
 # Overview
 📌 The P&L of Sales is done in Mirosoft Excel.All data cleaning, modelling & visulization are done in Microsoft Excel.<br>
@@ -11,7 +12,7 @@ No of Monthly sales & their Targets contain in monthly sales table & Targets Tab
 <H2>Analysis</H2>
 C:\Users\Admin\Pictures\Saved Pictures
 
-- An appraisal of the cumulative profit from the start of the transactional year in 2019 to the end of the transactional year in 2021.
+- Year wise Sales performance of all customers with comparison of previous year sales performance.
 
-<p align="center"><img width="234" alt="image" src="https://user-images.githubusercontent.com/71536311/194792887-72820639-3f5c-496c-b8a6-395df1c60746.png">
+<p align="center"><img width="234" alt="image" src="![alt text](https://github.com/vinayakswami/images/blob/main/Customer.png?raw=true)0">
 </p>
