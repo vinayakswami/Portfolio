@@ -10,9 +10,12 @@ Products table contain differnt types of Electonics compoents. In customers tabl
 No of Monthly sales & their Targets contain in monthly sales table & Targets Table. 
 
 <H2>Analysis</H2>
-C:\Users\Admin\Pictures\Saved Pictures
+
 
 - Year wise Sales performance of all customers with comparison of previous year sales performance.
 
 ![Customer](https://github.com/vinayakswami/Portfolio/assets/64587304/1629764c-c741-47a3-9647-d1365e3d0615)
 
+
+- Gross Margin % year wise & zone wise.
+  ![GM](https://github.com/vinayakswami/Portfolio/assets/64587304/2338625e-51be-40d4-ab33-bf88c3e342e6)
