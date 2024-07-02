@@ -14,5 +14,5 @@ C:\Users\Admin\Pictures\Saved Pictures
 
 - Year wise Sales performance of all customers with comparison of previous year sales performance.
 
-<p align="center"><img width="234" alt="image" src="![Customer](https://github.com/vinayakswami/Portfolio/assets/64587304/30e19fd8-2af2-4d26-bbf6-e464fc001d52)">
+<p ![Customer](https://github.com/vinayakswami/Portfolio/assets/64587304/1629764c-c741-47a3-9647-d1365e3d0615)
 </p>
