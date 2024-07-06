@@ -9,6 +9,16 @@ As a strategic move, the managing director of AtliQ Grands wanted to incorporate
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
 
+<h3>Metrics </h3>
+📌 Cancellation % = Percentage of cancellation of Rooms
+📌 No Show Rate % = Percentage of room booked but customer doesn't show up
+📌 ADR(Average Daily Rate) = It is the ratio of revenue to the total rooms booked/sold, TO measure of the average paid for rooms sold in a given time period
+📌 Realisation % = It is succesful "checked out" percentage over all bookings happened.
+📌 RevPAR(Revenue per Avialble Room) = RevPAR represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotels measure their revenue 
+                                        generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
+📌 DBRN(Daily Booked Room Nights) = This metrics tells on average how many rooms are booked for a day considering a time period.
+📌 DSRN(Daily Sellable Room Nights) = This metrics tells on average how many rooms are ready to sell for a day considering a time period
+📌 DURN(Daily Utilized Room Nights) = This metric tells on average how many rooms are succesfully utilized by customers for a day considering a time period
 
 
 <h2> Project Insights</h2>
@@ -25,5 +35,8 @@ Link to [Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=816
 📌 AtliQ lost around ₹298 Million by cancellation<br>
 📌 Elite type of rooms has the most bookings, But it also has higher cancellation rate <br>
 
+<h2>Suggestions</h2>
+📌 
 
-# Conclusion
+
+
