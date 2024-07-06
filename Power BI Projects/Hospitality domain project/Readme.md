@@ -19,7 +19,7 @@ Link to [Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=816
 📌 Mumbai generates the highest revenue (₹669 M) followed by Bangalore, Hyderabad and Delhi.<br>
 📌 AtliQ Exotica performs better compared to all 7 type of properties with ₹320 Million revenue, rating 3.62, occupancy percentage 
     57% and cancellation rate as 24.4%.<br>
-📌 AtliQ Bay has the highest occupancy of 66%
+📌 AtliQ Bay has the highest occupancy of 66%<br>
 📌 Week No.24 recorded the highest revenue among all, which is ₹139.6 Million<br>
 📌 Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore<br>
 📌 AtliQ lost around ₹298 Million by cancellation<br>
