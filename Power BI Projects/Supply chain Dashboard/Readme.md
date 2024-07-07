@@ -1,8 +1,8 @@
-#Project: Supply Chain Dashboard
+# Project: Supply Chain Dashboard
 
-#Project Overview
+# Project Overview
 
-As part of the codebasics  resume challenge, I have worked on this analysis project.It covers an overview of AtliQ Mart Business performance, Customer Analysis &Delivery Anlysis.
+As part of the codebasics  resume challenge, I have worked on this analysis project.It covers an overview of AtliQ Mart Business performance, Customer Analysis & Delivery Anlysis.
 
 <h2>Problem Statement</h2>
 
