@@ -38,9 +38,17 @@ Link to [Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=816
 📌 Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore<br>
 📌 AtliQ lost around ₹298 Million by cancellation<br>
 📌 Elite type of rooms has the most bookings, But it also has higher cancellation rate <br>
+📌 Benglore generated most revenue per booking ₹17.6k & Hyderabad generated lowest ₹10.3k. <br>
 
 <h2>Suggestions</h2>
-📌 
-
+📌 From Mumbai, AtliQ seasons & Bay have lowest rating ~2.3 that is why revenue is also lowest comapred to other properties.
+   Occuapncy is also lowest on weekday's. You can improve room & service quality on weekday for business type of customers.<br>
+📌Lowest bookings are from direct website, so improving your website quality will make bookings smoother & more.<br>
+📌ADR rate of mumbai is low, can be improved by giving customers offer packages, other special romm services to only "Elite" & "Premium" type of rooms & Promote these type of offers & 
+   services for these rooms.<br>
+📌 Occuancy rate of Delhi is alomost 60%, you can improve it by special rate, room upgrades, or package bundles with services.<br>
+📌 DSRN(Daily Sellable Room Night) rate is ~2.5k but DURN(Daily Utilized Room Night) are only 1.03k; 
+  that means aprox. 1.5 k rooms daily not utilized as per capacity. This can be increased by increasing  "book per click" like offer on your website & giving special offers to offline 
+   bookings.<br>
 
 
