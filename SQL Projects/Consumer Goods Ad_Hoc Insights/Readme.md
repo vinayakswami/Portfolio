@@ -21,7 +21,7 @@ fact_manufacturing_cost ::  contains the cost incurred in the production of each
 fact_gross price :: contains gross price information for each product<br> 
 
 <h3>Tools Used</h3>
-MySQl<br>
+MySQL<br>
 PowerBI(Visulisations)<br>
 Microsoft Powerpoint<br>
 
