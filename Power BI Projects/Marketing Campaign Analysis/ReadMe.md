@@ -48,7 +48,7 @@ In conclusion, the analysis of marketing campaign performance from March 2023 to
 <br>
 Moving forward, stakeholders are encouraged to capitalize on the insights gained:<br>
 
-📌Optimize Budget Allocations: Allocate resources based on high-performing ad types and channels.<br>
+📌Optimize Budget Allocations: Allocate resources based on high-performing ad types and channels.<br><br>
 📌Enhance Engagement Strategies: Tailor messaging and content to maximize user engagement, particularly on platforms like Facebook and Instagram.<br>
 📌Maximize ROI: Leverage seasonal trends and campaign efficiencies observed, such as during the summer period.<br>
 
