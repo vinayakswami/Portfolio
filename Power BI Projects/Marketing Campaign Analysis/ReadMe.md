@@ -5,9 +5,9 @@
 <h2>Insights and Observations</h2>
 <h3>Detailed Awareness of campaign</h3>
 The Campaign 'awareness' provides a detailed analysis of the marketing campaigns, platform efficiency, geographic impact, and seasonal trends.<br><br>
-Link to [Interactive Dashboard]()
+Link to [Interactive Dashboard]()<br>
 
-Here are the key insights and outcomes:
+Here are the key insights and outcomes:<br>
 📌Time-Based Analysis: The timeline visual enables users to analyze campaign performance over specific periods from March 2023 to November 2023. These metrics show changes month-to-month or day-to-day, users can identify trends and seasonal patterns.<br>
 
 📌Conversion by Ad Type:
@@ -34,19 +34,19 @@ Instagram has the highest click-through rate (CTR) at 48.55%, followed closely b
 
 <h4>Financial Performance of campaign</h4>
 📌ROI Over Time:
-The Return on Investment (ROI) fluctuates significantly over time, with peaks indicating periods of high campaign efficiency. These peaks require further investigation to identify contributing factors. 
+The Return on Investment (ROI) fluctuates significantly over time, with peaks indicating periods of high campaign efficiency. These peaks require further investigation to identify contributing factors. <br>
 
 📌Spend and Conversion Rate:
-The overall spending and conversion rate have increased over time, with a significant rise observed around mid-2023, indicating the growing effectiveness of the campaign.
+The overall spending and conversion rate have increased over time, with a significant rise observed around mid-2023, indicating the growing effectiveness of the campaign.<br>
 
 📌ROI Analysis in campaign:
-The analysis reveals that the Summer campaign achieved the highest Return on Investment (ROI) compared to campaigns run during other seasons. This outcome shows the effectiveness of advertising efforts during the summer period.
+The analysis reveals that the Summer campaign achieved the highest Return on Investment (ROI) compared to campaigns run during other seasons. This outcome shows the effectiveness of advertising efforts during the summer period.<br>
 
 
 <h2>Conclusion</h2>
 In conclusion, the analysis of marketing campaign performance from March 2023 to November 2023 has provided valuable insights into campaign performance across various dimensions. From the effectiveness of Discount Ads in driving conversions to the seasonal variations in ROI, each finding offers opportunities for optimizing future strategies.
 <br>
-Moving forward, stakeholders are encouraged to capitalize on the insights gained:
+Moving forward, stakeholders are encouraged to capitalize on the insights gained:<br>
 
 📌Optimize Budget Allocations: Allocate resources based on high-performing ad types and channels.<br>
 📌Enhance Engagement Strategies: Tailor messaging and content to maximize user engagement, particularly on platforms like Facebook and Instagram.<br>
