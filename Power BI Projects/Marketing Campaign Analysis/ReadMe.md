@@ -5,9 +5,7 @@
 <h2>Insights and Observations</h2>
 <h3>Detailed Awareness of campaign</h3>
 The Campaign 'awareness' provides a detailed analysis of the marketing campaigns, platform efficiency, geographic impact, and seasonal trends.<br><br>
-Link to [Interactive Dashboard]()<br>
 
-Here are the key insights and outcomes:<br>
 📌Time-Based Analysis: The timeline visual enables users to analyze campaign performance over specific periods from March 2023 to November 2023. These metrics show changes month-to-month or day-to-day, users can identify trends and seasonal patterns.<br>
 
 📌Conversion by Ad Type:
@@ -42,7 +40,7 @@ The overall spending and conversion rate have increased over time, with a signif
 📌ROI Analysis in campaign:
 The analysis reveals that the Summer campaign achieved the highest Return on Investment (ROI) compared to campaigns run during other seasons. This outcome shows the effectiveness of advertising efforts during the summer period.<br>
 
-
+Link to [Interactive Dashboard]()<br>
 <h2>Conclusion</h2>
 In conclusion, the analysis of marketing campaign performance from March 2023 to November 2023 has provided valuable insights into campaign performance across various dimensions. From the effectiveness of Discount Ads in driving conversions to the seasonal variations in ROI, each finding offers opportunities for optimizing future strategies.
 <br>
