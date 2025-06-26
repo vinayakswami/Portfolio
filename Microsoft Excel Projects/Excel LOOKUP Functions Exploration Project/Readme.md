@@ -33,7 +33,8 @@ The learning outcomes of this section encompass:
 Understanding the enhanced capabilities of XLOOKUP over traditional VLOOKUP and HLOOKUP.
 Utilizing XLOOKUP to perform searches in both horizontal and vertical directions.
 Exploring the flexibility of XLOOKUP to handle approximate matches and handle errors gracefully.
-Sheet 8: Overcoming Limitations
+
+<h2>Sheet 8: Overcoming Limitations</h2>
 Sheet 8 focuses on a significant limitation of traditional LOOKUP functions: their inability to handle duplicates effectively. I address this challenge using the SUM and FILTER functions.
 
 Key takeaways from this section include:
