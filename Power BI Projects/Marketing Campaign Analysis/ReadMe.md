@@ -40,7 +40,7 @@ The overall spending and conversion rate have increased over time, with a signif
 📌ROI Analysis in campaign:
 The analysis reveals that the Summer campaign achieved the highest Return on Investment (ROI) compared to campaigns run during other seasons. This outcome shows the effectiveness of advertising efforts during the summer period.<br>
 
-Link to [Interactive Dashboard]()<br>
+Link to [Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=c7545085-8154-4b33-bf02-8a9f1cfa5b5e&autoAuth=true&ctid=3dbeb4bf-282a-4b09-ab14-66ee52e39cd2)<br>
 <h2>Conclusion</h2>
 In conclusion, the analysis of marketing campaign performance from March 2023 to November 2023 has provided valuable insights into campaign performance across various dimensions. From the effectiveness of Discount Ads in driving conversions to the seasonal variations in ROI, each finding offers opportunities for optimizing future strategies.
 <br>
